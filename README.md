@@ -1,5 +1,5 @@
 
-## Hi 👋 I'm a passionate developer with over 9 years of diverse experience in the tech industry
+## Hi 👋 I'm a passionate developer with over 11 years of diverse experience in the tech industry
 
 I’ve worked across various domains, including web development and Unity game development, where I gained a solid understanding of both frontend and backend technologies. Recently, I’ve decided to shift my focus to mobile app development, where I believe I can make a significant impact.
 
